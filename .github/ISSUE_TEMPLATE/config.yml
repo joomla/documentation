@@ -1,0 +1,7 @@
+blank_issues_enabled: true
+issue_templates:
+  - name: "Tutorial"
+    description: "A tutorial that is wanted."
+    title: "[Tutorial]: "
+    labels: ["beginners","content management","type: tutorial"]
+    body: "./ISSUE_TEMPLATE/tutorial.md"
