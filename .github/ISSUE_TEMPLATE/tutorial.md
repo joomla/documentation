@@ -22,6 +22,7 @@ assignees: ''
 ### Steps
 <!-- list all steps that are needed for this tutorial -->
 1. 
+2. 
 
 ### Reference
 <!-- Is there some reference of this tutorial in coherence with others? -->
@@ -29,3 +30,4 @@ assignees: ''
 
 ### Existing resources
 <!-- List existing articles and/or videos about this subject -->
+* 
