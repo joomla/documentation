@@ -1,3 +1,12 @@
+---
+name: Tutorial issue template
+about: The content we want for a tutorial.
+title: '[Tutorial]: '
+labels: 'beginners','content management','type: tutorial'
+assignees: ''
+
+---
+
 ### Type: Tutorial. 
 
 ### Summary
