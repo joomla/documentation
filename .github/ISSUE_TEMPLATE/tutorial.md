@@ -29,5 +29,6 @@ assignees: ''
 * 
 
 ### Existing resources
+(mainly used as reference to make your tutorial, but might be referred to under your tutorial, if useful)
 <!-- List existing articles and/or videos about this subject -->
 * 
