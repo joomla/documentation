@@ -1,0 +1,4 @@
+- [Napoleon II Telescope, University of Notre Dame with Warner & Swasey Equitorial Mount](https://commons.wikimedia.org/wiki/File:Napoleon_III_Telescope,_University_of_Notre_Dame_with_Warner_%26_Swasey_Equatorial_Mount.jpg)
+- [Newtonian Telescopes](https://commons.wikimedia.org/wiki/File:Newtonian_Telescopes.jpg)
+- [Telescope-122961](https://commons.wikimedia.org/wiki/File:Telescope-122961.jpg)
+- [Taking a Closer Look: Examining Light and Telescopes](https://science.nasa.gov/wp-content/uploads/2024/08/ngsttelescope-guide.pdf) from [For Educators: Educational Resources](https://science.nasa.gov/mission/webb/for-educators/)
