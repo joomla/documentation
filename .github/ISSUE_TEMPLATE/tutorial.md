@@ -15,17 +15,13 @@ assignees: ''
 ### Prerequisites
 <!-- What is necessary to do first, before this tutorial. Especially other tutorials. -->
 
-### Concepts
-<!-- List the concepts that are shown in this tutorial -->
-* 
-
 ### Steps
 <!-- list all steps that are needed for this tutorial -->
 1. 
 2. 
 
-### Reference
-<!-- Is there some reference of this tutorial in coherence with others? -->
+### Concepts
+<!-- List the concepts that are shown in this tutorial -->
 * 
 
 ### Existing resources
